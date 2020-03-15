@@ -11,9 +11,6 @@
       </map>
     </option>
   </component>
-  <component name="Kotlin2JvmCompilerArguments">
-    <option name="jvmTarget" value="1.8" />
-  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
